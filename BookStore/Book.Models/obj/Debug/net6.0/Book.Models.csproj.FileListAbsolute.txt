@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\BookStore\BookStore\Book.Models\bin\Debug\net6.0\Book.Models.deps.json
+C:\Users\hp\Desktop\BookStore\BookStore\Book.Models\bin\Debug\net6.0\Book.Models.runtimeconfig.json
+C:\Users\hp\Desktop\BookStore\BookStore\Book.Models\bin\Debug\net6.0\Book.Models.dll
+C:\Users\hp\Desktop\BookStore\BookStore\Book.Models\bin\Debug\net6.0\Book.Models.pdb
+C:\Users\hp\Desktop\BookStore\BookStore\Book.Models\obj\Debug\net6.0\Book.Models.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\BookStore\BookStore\Book.Models\obj\Debug\net6.0\Book.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\BookStore\BookStore\Book.Models\obj\Debug\net6.0\Book.Models.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\BookStore\BookStore\Book.Models\obj\Debug\net6.0\Book.Models.AssemblyInfo.cs
+C:\Users\hp\Desktop\BookStore\BookStore\Book.Models\obj\Debug\net6.0\Book.Models.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\BookStore\BookStore\Book.Models\obj\Debug\net6.0\Book.Models.dll
+C:\Users\hp\Desktop\BookStore\BookStore\Book.Models\obj\Debug\net6.0\refint\Book.Models.dll
+C:\Users\hp\Desktop\BookStore\BookStore\Book.Models\obj\Debug\net6.0\Book.Models.pdb
+C:\Users\hp\Desktop\BookStore\BookStore\Book.Models\obj\Debug\net6.0\Book.Models.genruntimeconfig.cache
+C:\Users\hp\Desktop\BookStore\BookStore\Book.Models\obj\Debug\net6.0\ref\Book.Models.dll
+C:\Users\hp\Desktop\BookStore\BookStore\Book.Models\obj\Debug\net6.0\Book.Models.sourcelink.json

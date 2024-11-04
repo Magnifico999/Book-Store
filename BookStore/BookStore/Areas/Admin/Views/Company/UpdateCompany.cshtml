@@ -1,0 +1,57 @@
+﻿@model GetCompany
+
+<form asp-action="UpdateCompany">
+    <div class="container border p-3">
+        <h1 class="text-primary text-center">Update Company</h1>
+        <hr />
+
+        <input hidden asp-for="Id" />
+
+        <div class="row">
+            <div asp-validation-summary="ModelOnly" class="text-danger col-12"></div>
+            <div class="col-12 col-md-6 pb-3">
+                <label asp-for="Name" class="control-label" style="font-size:20px;"> Name</label>
+                <input asp-for="Name" class="form-control custom-input" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="col-12 col-md-6 pb-3">
+                <label asp-for="StreetAddress" class="control-label" style="font-size:20px;"> Street Address</label>
+                <input asp-for="StreetAddress" class="form-control custom-input" />
+                <span asp-validation-for="StreetAddress" class="text-danger"></span>
+            </div>
+            <div class="col-12 col-md-6 pb-3">
+                <label asp-for="PhoneNumber" class="control-label" style="font-size:20px;">Phone Number</label>
+                <input asp-for="PhoneNumber" class="form-control custom-input" />
+                <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+            </div>
+            <div class="col-12 col-md-6 pb-3">
+                <label asp-for="City" class="control-label" style="font-size:20px;">City</label>
+                <input asp-for="City" class="form-control custom-input" />
+                <span asp-validation-for="City" class="text-danger"></span>
+            </div>
+
+            <div class="col-12 col-md-6 pb-3">
+                <label asp-for="State" class="control-label" style="font-size:20px;">State</label>
+                <input asp-for="State" class="form-control custom-input" />
+                <span asp-validation-for="State" class="text-danger"></span>
+            </div>
+
+            <div class="col-12 col-md-6 pb-3">
+                <label asp-for="PostalCode" class="control-label" style="font-size:20px;">Postal Code</label>
+                <input asp-for="PostalCode" class="form-control custom-input" />
+                <span asp-validation-for="PostalCode" class="text-danger"></span>
+            </div>
+
+            <div class="col-6">
+                <a asp-action="Index" asp-controller="Company" class="btn btn-primary form-control">Back to List</a>
+            </div>
+            <div class="col-6">
+                <input type="submit" value="Update" class="btn btn-success form-control" />
+            </div>
+        </div>
+    </div>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

@@ -1,0 +1,210 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\BookStore\\BookStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{305346C6-EC45-4CA0-B801-B622B0AC8813}|BookStore\\BookStore.csproj|c:\\users\\hp\\desktop\\bookstore\\bookstore\\bookstore\\wwwroot\\js\\order.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{305346C6-EC45-4CA0-B801-B622B0AC8813}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\wwwroot\\js\\order.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305346C6-EC45-4CA0-B801-B622B0AC8813}|BookStore\\BookStore.csproj|c:\\users\\hp\\desktop\\bookstore\\bookstore\\bookstore\\areas\\admin\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{305346C6-EC45-4CA0-B801-B622B0AC8813}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\areas\\admin\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305346C6-EC45-4CA0-B801-B622B0AC8813}|BookStore\\BookStore.csproj|c:\\users\\hp\\desktop\\bookstore\\bookstore\\bookstore\\areas\\admin\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{305346C6-EC45-4CA0-B801-B622B0AC8813}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\areas\\admin\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305346C6-EC45-4CA0-B801-B622B0AC8813}|BookStore\\BookStore.csproj|c:\\users\\hp\\desktop\\bookstore\\bookstore\\bookstore\\areas\\admin\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{305346C6-EC45-4CA0-B801-B622B0AC8813}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\areas\\admin\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305346C6-EC45-4CA0-B801-B622B0AC8813}|BookStore\\BookStore.csproj|c:\\users\\hp\\desktop\\bookstore\\bookstore\\bookstore\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{305346C6-EC45-4CA0-B801-B622B0AC8813}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CA010BE-C408-4B50-AEFC-64F86948B484}|Book.Utility\\Book.Utility.csproj|c:\\users\\hp\\desktop\\bookstore\\bookstore\\book.utility\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CA010BE-C408-4B50-AEFC-64F86948B484}|Book.Utility\\Book.Utility.csproj|solutionrelative:book.utility\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76C9B6E7-D5C4-4697-8E9C-04B10C081D60}|Book.DataAccess\\Book.DataAccess.csproj|c:\\users\\hp\\desktop\\bookstore\\bookstore\\book.dataaccess\\repository\\implementation\\applicationuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76C9B6E7-D5C4-4697-8E9C-04B10C081D60}|Book.DataAccess\\Book.DataAccess.csproj|solutionrelative:book.dataaccess\\repository\\implementation\\applicationuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA14774A-2AC8-4777-BFD7-F851CC2D6F8C}|Book.Models\\Book.Models.csproj|c:\\users\\hp\\desktop\\bookstore\\bookstore\\book.models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA14774A-2AC8-4777-BFD7-F851CC2D6F8C}|Book.Models\\Book.Models.csproj|solutionrelative:book.models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1337957756:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:641697949:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\BookStore\\BookStore\\BookStore\\Areas\\Admin\\Views\\Order\\Details.cshtml",
+              "RelativeDocumentMoniker": "BookStore\\Areas\\Admin\\Views\\Order\\Details.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\BookStore\\BookStore\\BookStore\\Areas\\Admin\\Views\\Order\\Details.cshtml",
+              "RelativeToolTip": "BookStore\\Areas\\Admin\\Views\\Order\\Details.cshtml",
+              "ViewState": "AQIAAAcBAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T06:42:15.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\BookStore\\BookStore\\BookStore\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "BookStore\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\BookStore\\BookStore\\BookStore\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "BookStore\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAA3wB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T03:52:11.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\BookStore\\BookStore\\Book.DataAccess\\Repository\\Implementation\\ApplicationUserRepository.cs",
+              "RelativeDocumentMoniker": "Book.DataAccess\\Repository\\Implementation\\ApplicationUserRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\BookStore\\BookStore\\Book.DataAccess\\Repository\\Implementation\\ApplicationUserRepository.cs",
+              "RelativeToolTip": "Book.DataAccess\\Repository\\Implementation\\ApplicationUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T00:06:23.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\BookStore\\BookStore\\Book.Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Book.Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\BookStore\\BookStore\\Book.Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Book.Models\\ApplicationUser.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T00:06:11.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "order.js",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\BookStore\\BookStore\\BookStore\\wwwroot\\js\\order.js",
+              "RelativeDocumentMoniker": "BookStore\\wwwroot\\js\\order.js",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\BookStore\\BookStore\\BookStore\\wwwroot\\js\\order.js",
+              "RelativeToolTip": "BookStore\\wwwroot\\js\\order.js",
+              "ViewState": "AQIAABYAAAAAAAAAAAAcwDQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-01T08:42:36.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SD.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\BookStore\\BookStore\\Book.Utility\\SD.cs",
+              "RelativeDocumentMoniker": "Book.Utility\\SD.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\BookStore\\BookStore\\Book.Utility\\SD.cs",
+              "RelativeToolTip": "Book.Utility\\SD.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T00:06:32.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\BookStore\\BookStore\\BookStore\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "BookStore\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\BookStore\\BookStore\\BookStore\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "BookStore\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAQwAEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T00:01:39.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\BookStore\\BookStore\\BookStore\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "BookStore\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\BookStore\\BookStore\\BookStore\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "BookStore\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "ViewState": "AQIAADEAAAAAAAAAAAAmwEIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-24T13:41:28.445Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

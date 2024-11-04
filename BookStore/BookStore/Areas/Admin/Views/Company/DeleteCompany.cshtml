@@ -1,0 +1,50 @@
+﻿@model GetCompany
+
+<form asp-action="DeleteCompany">
+    <br />
+    <div class="container border p-3">
+        <h1 class="text-primary">Delete Company</h1>
+        <hr />
+
+        <input hidden asp-for="Id" />
+        <div class="row">
+            <div class="col-12 col-md-6 pb-3">
+                <label asp-for="Name" class="control-label pt-2" style="font-size:20px;"></label>
+                <input asp-for="Name" disabled class="form-control custom-input" />
+            </div>
+            <div class="col-12 col-md-6 pb-3">
+                <label asp-for="StreetAddress" class="control-label pt-2" style="font-size:20px;"></label>
+                <input asp-for="StreetAddress" disabled class="form-control custom-input" />
+            </div>
+            <div class="col-12 col-md-6 pb-3">
+                <label asp-for="PhoneNumber" class="control-label pt-2" style="font-size:20px;"></label>
+                <input asp-for="PhoneNumber" disabled class="form-control custom-input" />
+            </div>
+            <div class="col-12 col-md-6 pb-3">
+                <label asp-for="State" class="control-label pt-2" style="font-size:20px;"></label>
+                <input asp-for="State" disabled class="form-control custom-input" />
+            </div>
+            <div class="col-12 col-md-6 pb-3">
+                <label asp-for="City" class="control-label pt-2" style="font-size:20px;"></label>
+                <input asp-for="City" disabled class="form-control custom-input" />
+            </div>
+            <div class="col-12 col-md-6 pb-3">
+                <label asp-for="PostalCode" class="control-label pt-2" style="font-size:20px;"></label>
+                <input asp-for="PostalCode" disabled class="form-control custom-input" />
+            </div>
+            
+            <div class="col-5 offset-2">
+                <a asp-action="Index" asp-controller="Company" class="btn-primary btn form-control">Back to List</a>
+            </div>
+            <div class="col-5">
+                <input type="submit" value="Delete" class="btn btn-danger btn form-control" />
+            </div>
+
+        </div>
+    </div>
+
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
